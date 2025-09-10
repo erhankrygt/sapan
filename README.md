@@ -105,7 +105,7 @@ ALPHA_VANTAGE_API_KEY=your_key ALPHA_VANTAGE_API_URL=https://your-proxy.com/quer
 
 ```
 sapan/
-├── cmd/sapan/           # Main application entry points
+├── main.go             # Main application entry points
 ├── internal/
 │   ├── config/         # Configuration management
 │   ├── data/           # Data fetching and loading
